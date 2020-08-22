@@ -129,6 +129,5 @@ dmypy.json
 .pyre/
 
 # custom
-train_data.csv
-test_data.csv
+*.csv
 .virtual_documents/
