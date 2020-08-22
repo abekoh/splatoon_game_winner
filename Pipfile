@@ -13,6 +13,7 @@ matplotlib = "*"
 jupyterlab = "*"
 jupyter-lsp = "*"
 python-language-server = {extras = ["all"],version = "*"}
+xgboost = "*"
 
 [requires]
 python_version = "3.8"

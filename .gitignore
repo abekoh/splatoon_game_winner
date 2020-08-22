@@ -131,3 +131,4 @@ dmypy.json
 # custom
 train_data.csv
 test_data.csv
+.virtual_documents/

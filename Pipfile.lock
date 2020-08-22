@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "de6e8165946841de499ed63b7048c2cff209e72f4d1653befef2d522043ebead"
+            "sha256": "e53e6db7e0c7a715957917afcc285b5d3f107957178a99de93f4a7e427280278"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -21,7 +21,7 @@
                 "sha256:5b26757dc6f79a3b7dc9fab95359328d5747fcb2409d331ea66d0272b90ab2a0",
                 "sha256:8b995ffe925347a2138d7ac0fe77155e4311a0ea6d6da4f5128fe4b3cbe5ed71"
             ],
-            "markers": "platform_system == 'Darwin'",
+            "markers": "sys_platform == 'darwin'",
             "version": "==0.1.0"
         },
         "argon2-cffi": {
@@ -850,6 +850,16 @@
                 "sha256:b62ffa81fb85f4332a4f609cab4ac40709470da05643a082ec1eb88e6d9b97d7"
             ],
             "version": "==1.12.1"
+        },
+        "xgboost": {
+            "hashes": [
+                "sha256:45741bb6c3a09b050b974baec8353d649d0e730a9d78dc0382c998d53b8e89b3",
+                "sha256:483c49c6ea0d0ccfa607f5847613bb5deeca91a31f8bc79dc933017b3a4a27f1",
+                "sha256:911b2fe8689073ffa65f5b51552233d2a874f6fb0f670775c9c416cae0d2b0cb",
+                "sha256:e52c8a831efe18c42b35e5ea699eec77cba0db52dfb66b264f32451c31bb5d75"
+            ],
+            "index": "pypi",
+            "version": "==1.1.1"
         },
         "yapf": {
             "hashes": [
