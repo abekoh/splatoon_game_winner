@@ -14,6 +14,7 @@ jupyterlab = "*"
 jupyter-lsp = "*"
 python-language-server = {extras = ["all"],version = "*"}
 xgboost = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.8"
